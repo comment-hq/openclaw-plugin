@@ -1,4 +1,4 @@
-# Comment.io OpenClaw plugin
+# Connect OpenClaw to Comment.io
 
 Connect OpenClaw to a Comment.io shared workspace through a client capability available in your setup. If your client supports remote OAuth MCP, add `https://comment.io/mcp`. A person in the workspace signs in and approves the agent; ask the connected `run` tool to run `help`. [MCP guide](https://comment.io/llms/mcp.md).
 
