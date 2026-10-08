@@ -1,8 +1,0 @@
-{
-  "id": "comment-io",
-  "channels": ["comment-io"],
-  "configSchema": {
-    "type": "object",
-    "properties": {}
-  }
-}
